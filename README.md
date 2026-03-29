@@ -57,3 +57,11 @@ Convert to web app (Flask / Streamlit)
 
 This project marks the beginning of my programming journey.
 It may be simple, but it represents my first step into building real applications.
+
+<img width="995" height="541" alt="Screenshot 2026-03-30 023813" src="https://github.com/user-attachments/assets/34fb3131-a614-4748-9ce1-928db16a63c9" />
+
+<img width="1118" height="779" alt="Screenshot 2026-03-30 023822" src="https://github.com/user-attachments/assets/6b9a5718-0156-4b31-a0c6-9c2a0cba90a3" />
+
+<img width="805" height="345" alt="Screenshot 2026-03-30 023829" src="https://github.com/user-attachments/assets/d3ce7386-458d-4310-b9e5-e74ff92b6aa3" />
+
+<img width="813" height="353" alt="Screenshot 2026-03-30 023837" src="https://github.com/user-attachments/assets/bd3d9bc3-defe-4572-a9fd-0aa538e06d98" />
